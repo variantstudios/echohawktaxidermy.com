@@ -1,0 +1,16 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+	box-sizing: border-box;
+	body {
+    background: $site-bg url('../images/body-bg.png') no-repeat top center;
+	  height: 100%;
+	}
+}
+*, *:before, *:after { box-sizing: inherit; }
+.wrap {
+  padding: 0 1.5em;
+  max-width: $container_width;
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+    padding: 0 2em;
+  }
+}

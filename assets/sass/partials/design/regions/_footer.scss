@@ -1,0 +1,35 @@
+footer.site-footer {
+  color: #fff;
+  font-size: 80%;
+  padding-top: 3em;
+  @include clearfix;
+  margin: 0 auto;
+  height: 175px;
+  background: #060606 url("../images/footer.jpg") no-repeat top center;
+  @include background-size(cover);
+  width: 100%;
+  z-index: -9;
+  a:link, a:visited, span {
+    color: #fff;
+  }
+  .wrap {
+    border-top: 1px solid #000000;
+    padding-top: 2em;
+  }
+}
+.footer-wrapper { 
+  @include clearfix;
+  .left {
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      @include grid-span(6, 1);
+       //background-color: blue;
+    }
+  }
+  .right {
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      @include grid-span(6, 7);
+        //background-color: green;
+        text-align: right;
+    }
+  }
+}

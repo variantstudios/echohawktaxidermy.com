@@ -1,0 +1,95 @@
+header.front-header {
+    border-bottom: 1px solid $color-four;
+    text-align: center;
+    padding: 1em 1em 2.5em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+        padding: 1em 4em 2.5em;
+    }
+}
+.front-tile-links {
+    @include clearfix;
+    .tile {
+        @include box-shadow(0px, -2px, 4px, rgba(black,.5));
+        position: relative;
+        margin-bottom: 4em;
+        &:after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 60%;
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+0,0.65+100 */
+            background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(76, 62, 62, 0.65) 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(76, 62, 62, 0.65) 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(76, 62, 62, 0.65) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            bottom: 0;
+        }
+        a {
+            display: block;
+            line-height: 0;
+        }
+        &.first, &.second, &.third {
+            width: 80%;
+            margin: 0 auto 1em;
+        }
+        &.first {
+            @include breakpoint($tablet, $no-query: '.no-mq') {
+                @include grid-span(3.5,1);
+            }
+        }
+        &.second {
+            @include breakpoint($tablet, $no-query: '.no-mq') {
+                @include grid-span(3.5,5);
+            }
+        }
+        &.third {
+            @include breakpoint($tablet, $no-query: '.no-mq') {
+                @include grid-span(3.5,9);
+            }
+        }
+        img {
+            width: 100%;
+        }
+        .mask {
+            position: absolute;
+            width: 104%;
+            bottom: -3px;
+            left: -2%;
+            z-index: 2;
+            max-width: none;
+        }
+        a:hover { text-decoration: none; }
+        .label {
+            position: absolute;
+            bottom: 50px;
+            width: 100%;
+            color: #fff;
+            margin: 0 auto;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 150%;
+            @include text-shadow(0px, 1px, 5px, rgba(black,.3));
+            z-index: 3;
+        }
+    }
+}
+.front-about-page {
+    @include clearfix;
+    margin-top: 3em;
+    img {
+        /*width: 100%;*/
+        padding: 2em;
+        @include breakpoint($tablet, $no-query: '.no-mq') {
+            float: left;
+            /*width: 30%;*/
+            padding-right: 2em;
+            padding-top: 0;
+        }
+    }
+    h3 {
+        margin: 0 0 .5em;
+        text-transform: uppercase;
+        font-size: 2em;
+    }
+    div { margin: 0 0 1em; }
+    a { text-decoration: underline; }
+}

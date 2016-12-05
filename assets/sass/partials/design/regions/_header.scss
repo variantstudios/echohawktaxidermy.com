@@ -1,0 +1,52 @@
+header.wrap {
+    margin: 0 auto 4em;
+    @include clearfix;
+    padding: 1em 2em 0;
+}
+
+
+.header-bg {
+  margin: 0 auto;
+  height: 300px;
+  background: #060606 url("../images/header-image-sub.jpg") no-repeat bottom center;
+  @include background-size(cover);
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -9;
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+      height: 500px;
+  }
+}
+.header-front {
+  background: #060606 url("../images/header-front.jpg") no-repeat bottom center;
+  @include background-size(cover);
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+      height: 550px;
+  }
+}
+
+
+.nav-header {
+  z-index: 1;
+  @include breakpoint($tablet, $no-query: ".no-mq") {
+    float: none;
+    top: 0;
+    padding: 0 5em;
+    transition: top .5s ease-in-out;
+    text-align: center;
+  }
+}
+
+
+.logo-section {
+  @include breakpoint($desktop, $no-query: ".no-mq") {
+      @include grid-span(3.5,1);
+  }
+}
+
+.main-nav {
+  @include breakpoint($desktop, $no-query: ".no-mq") {
+      @include grid-span(9,4);
+  }
+}

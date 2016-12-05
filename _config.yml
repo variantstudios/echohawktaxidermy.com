@@ -1,0 +1,63 @@
+# Site settings
+title: Echohawk Taxidermy
+email: team@variantstudios.com
+description:
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://www.echohawktaxidermy.com" # the base hostname & protocol for your site
+timezone: America/Denver
+
+# Site Author(s)
+author:
+  name: Variant Studios
+  email: team@variantstudios.com
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..6
+
+# Permalinks
+
+# Include Sub Pages
+include: ['_pages']
+
+# Blog Settings
+paginate: 10
+paginate_path: "/news/page:num/"
+
+# Collections
+collections:
+  gallery:
+    output: true
+    permalink: /gallery/:title/
+  services:
+    output: false
+
+defaults:
+
+formats:
+  - full-width
+  - three-column
+
+
+# Reading Time Feature
+reading_time:     true
+words_per_minute: 200
+
+# Disqus Comments
+disqus_short_name:
+disqus_show_comment_count:
+
+# typekit
+typekit: kzr5aij
+
+# Social Media
+facebook: 
+twitter: 
+
+# Google Analytics
+google_analytics_tracking_id: "UA-1299264-14"
+
+exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]

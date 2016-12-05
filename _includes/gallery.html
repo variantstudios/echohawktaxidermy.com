@@ -1,0 +1,10 @@
+<section class="clearfix gallery-fn">
+  <div class="grid clearfix">
+    <div class="grid-sizer"></div>
+    {% for item in page.images %}
+      <div itemscope class="grid-item">
+        <a class="gallery" href="{{ item.large_image_path }}"><img class="gallery-item lrg" src="{{ item.small_image_path }}" alt="{{ item.title }}" itemprop="image"></a>
+      </div>
+    {% endfor %}
+  </div>
+</section>

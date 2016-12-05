@@ -1,0 +1,24 @@
+.divider {
+  section {
+    h3 {
+      margin-top: 1.5em;
+      border-top: 1px dashed #555555;
+      padding-top: 1.5em;
+      &:first-child {
+        margin-top: 0;
+      }
+    }
+    p { 
+      padding-left: 1em; 
+      @include breakpoint($tablet, $no-query: '.no-mq') {
+        padding-left: 3em; 
+      }
+    }
+    ul, ol { 
+      padding-left: 3em; 
+      @include breakpoint($tablet, $no-query: '.no-mq') {
+        padding-left: 5em; 
+      }
+    }
+  }
+}

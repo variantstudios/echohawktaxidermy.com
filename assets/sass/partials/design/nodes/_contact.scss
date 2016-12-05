@@ -1,0 +1,12 @@
+.left {
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    float: left;
+    width: 50%;
+  }
+}
+.right {
+  @include breakpoint($tablet, $no-query: '.no-mq') {
+    float: right;
+    width: 50%;
+  }
+}

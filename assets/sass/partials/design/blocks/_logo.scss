@@ -1,0 +1,10 @@
+.logo-section {
+    width: 150px;
+    @include breakpoint($tablet, $no-query: ".no-mq") {
+        width: 260px;
+        margin: 1em auto 0;
+    }
+  img {
+    display: block;
+  }
+}

@@ -1,0 +1,12 @@
+- text: Services
+  url: /services/
+- text: Gallery
+  url: /gallery/
+- text: FAQ
+  url: /faq/
+- text: Testimonials
+  url: /testimonials/
+- text: About
+  url: /about/
+- text: Contact
+  url: /contact/

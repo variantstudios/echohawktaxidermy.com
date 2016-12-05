@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Gallery"
+subtitle: ""
+permalink: /gallery/
+---
+<section class="clearfix">
+  <div class="grid clearfix">
+    <div class="grid-sizer"></div>
+    {% assign galleries = site.gallery | sort: 'weight' %}
+    {% for item in galleries %}
+      <div itemscope class="grid-item">
+        <a class="gallery-group" href="{{ item.permalink }}">
+        	<img class="gallery-item lrg" src="{{ item.featured_image_path }}" alt="{{ item.title }}" itemprop="image">
+        	<h5 class="gallery-group-name">{{ item.title }}</h5>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
