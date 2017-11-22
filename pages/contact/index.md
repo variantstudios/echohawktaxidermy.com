@@ -1,9 +1,10 @@
 ---
 layout: contact
-title: "Contact"
-subtitle: ""
+title: Contact
+subtitle:
 permalink: /contact/
 ---
+
 
 ### Contact info:
 
@@ -11,9 +12,7 @@ Echohawk Taxidermy
 
 Kimmel Evans
 
-7348 Ute Hwy
-
-Longmont, CO 80503
+7348 Ute hwy<br>Longmont CO 80503
 
 Shop: [303-682-1046](tel:303-682-1046)
 
