@@ -1,19 +1,29 @@
-<div id="wufoo-z1nqj6r808a6sx7">
-Fill out my <a href="https://echohawktaxidermy.wufoo.com/forms/z1nqj6r808a6sx7">online form</a>.
-</div>
-<script type="text/javascript">var z1nqj6r808a6sx7;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'echohawktaxidermy',
-'formHash':'z1nqj6r808a6sx7',
-'autoResize':true,
-'height':'557',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z1nqj6r808a6sx7 = new WufooForm();z1nqj6r808a6sx7.initialize(options);z1nqj6r808a6sx7.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+
+
+<div id="contact-message"><h3>{{page.webform.thank_you_message}}</h3></div>
+<form method="post" class="contact-form" action="/contact/?sent=true">
+  <input type="hidden" name="_to" value="{{page.webform.to}}">
+  <input type="hidden" name="_subject" value="{{page.webform.subject}}">
+  
+   <input type="text" name="_gotcha" style="display: none;">
+    <div class="webform-component">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" required="">
+    </div>
+    <div class="webform-component">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" required="">
+    </div>
+     <div class="webform-component">
+        <label for="phone">Phone</label>
+        <input type="text" name="phone" id="phone">
+    </div>
+    <div class="webform-component">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6"></textarea>
+    </div>
+   <div class="g-recaptcha" data-sitekey="6Leyaz0UAAAAAH7lM-yk279gQjULWTJjGco-ooE2"></div><br>
+    <br>
+    
+    <input class="sendButton" type="submit" value="Send">
+</form>
