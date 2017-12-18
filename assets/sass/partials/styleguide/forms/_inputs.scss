@@ -5,9 +5,25 @@ input[type="text"], input[type="email"], input[type="name"], input[type="passwor
   font-family: $font-family;
   border: 1px solid #D3D3D3;
   border-radius: 3px;
+  color: #333;
   &:active, &:focus {
     border: 1px solid $color-one;
     box-shadow: none;
     outline: none;
   }
+}
+textarea {
+  color: #333;
+}
+label{
+  display: inline-block;
+  float: left;
+  clear: left;
+  width: 100px;
+  text-align: left;
+  margin-bottom: .5rem;
+}
+input {
+display: inline-block;
+float: left;
 }
