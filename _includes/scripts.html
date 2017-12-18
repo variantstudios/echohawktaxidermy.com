@@ -14,6 +14,11 @@
 <script type="text/javascript" src="/assets/js/prod/header.js"></script>
 <script src="/assets/js/dev/jquery.colorbox-min.js"></script>
 
+{% if page.permalink == "/contact/" %}
+<script src="/assets/js/prod/contact.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+{% endif %}
+
 {% if site.google_analytics_tracking_id %}
 <!-- google analytics -->
 <script>
