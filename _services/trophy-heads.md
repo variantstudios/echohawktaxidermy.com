@@ -5,7 +5,7 @@ title: Trophy Heads
 weight: 1
 subcategories:
   - title: 'North American, Exotic'
-    services:
+    options:
       - name: 'Deer, Antelope'
         price: $675
       - name: 'Fallow, Sika'
@@ -23,7 +23,7 @@ subcategories:
       - name: Bison
         price: $1800
   - title: Sheep
-    services:
+    options:
       - name: Corsican
         price: $750
       - name: Moufalon
@@ -45,7 +45,7 @@ subcategories:
       - name: Aoudad
         price: $850
   - title: Goats
-    services:
+    options:
       - name: Mountain
         price: $850
       - name: Ibex
@@ -55,7 +55,7 @@ subcategories:
       - name: Spanish
         price: $750
   - title: Hogs
-    services:
+    options:
       - name: Feral-Russian
         price: $900
       - name: Javelina
@@ -65,7 +65,7 @@ subcategories:
       - name: Wart Hog
         price: '$1,100'
   - title: Small Game
-    services:
+    options:
       - name: Bobcat
         price: $650
       - name: Badger

@@ -10,7 +10,7 @@ subcategories:
       on life-size big game.
 
       * P.O.R for all others
-    services:
+    options:
       - name: 'Deer, Antelope'
         price: $3400
       - name: Mountain Lion
@@ -23,7 +23,7 @@ subcategories:
         price: $3600
   - title: Small Game
     subtext: Custom base work extra on life-size small game.
-    services:
+    options:
       - name: Fox
         price: $975
       - name: Raccoon

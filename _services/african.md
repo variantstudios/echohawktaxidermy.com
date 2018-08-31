@@ -6,14 +6,14 @@ weight: 2
 subcategories:
   - title: Deer Size Game
     subtext: 'Prices will vary with amount of damage to skin due to mishandling, bug damage, over boiling, or any other issues associated with African skins and mounts.'
-    services:
+    options:
       - name: 'Impala, Springbuck, etc.'
         price: $850
       - name: 'Dik Dik, Duiker size game'
         price: $550
   - title: Elk Size Game
     subtext: 'Prices will vary with amount of damage to skin due to mishandling, bug damage, over boiling, or any other issues associated with African skins and mounts.'
-    services:
+    options:
       - name: Kudu
         price: $1200
       - name: Oryx
