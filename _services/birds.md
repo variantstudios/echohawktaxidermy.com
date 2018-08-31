@@ -6,7 +6,7 @@ weight: 6
 subcategories:
   - title: ''
     subtext: Custom base work extra on life-size birds.
-    services:
+    options:
       - name: 'Small Ducks (puddle, divers)'
         price: $295
       - name: Wood ducks

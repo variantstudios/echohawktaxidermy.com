@@ -6,7 +6,7 @@ weight: 5
 subcategories:
   - title: ''
     subtext: These prices are per inch.
-    services:
+    options:
       - name: Skinmount
         price: $15.00 inch
       - name: Skin reproduction

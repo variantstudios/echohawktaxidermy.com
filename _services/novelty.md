@@ -6,7 +6,7 @@ weight: 3
 subcategories:
   - title: Horn Plaques
     subtext: ''
-    services:
+    options:
       - name: Deer
         price: $200
       - name: Antelope
@@ -25,7 +25,7 @@ subcategories:
         price: '$300 & up'
   - title: Skulls
     subtext: '*Prices vary on size of skull,  Panels extra on Europeans'
-    services:
+    options:
       - name: Deer
         price: $185
       - name: Antelope
@@ -67,7 +67,7 @@ subcategories:
       Iron,
 
       Brass.
-    services:
+    options:
       - name: Small Game
         price: $110
       - name: Deer size game

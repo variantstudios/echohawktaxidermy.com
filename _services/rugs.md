@@ -5,7 +5,7 @@ title: Rugs
 weight: 7
 subcategories:
   - title: ''
-    services:
+    options:
       - name: Black Bear
         price: $1350
       - name: Brown Bear
