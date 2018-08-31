@@ -34,8 +34,12 @@ collections:
     permalink: /gallery/:title/
   services:
     output: false
+    
 
 defaults:
+  - type: 'services'
+    values:
+      _hide_content: true
 
 formats:
   - full-width
