@@ -4,8 +4,8 @@ format: full-width
 title: Additional Services
 weight: 8
 subcategories:
-  - title: 'Additional Services'
-    services:
+  - title: ''
+    sub_services:
       - name: Pedestal Shoulder Mounts
         price: add $125 and up
       - name: Floor or table pedestal Mounts
