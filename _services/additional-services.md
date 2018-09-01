@@ -4,10 +4,10 @@ format: full-width
 title: Additional Services
 weight: 8
 subcategories:
-  - title: ''
+  - title:
     options:
       - name: Pedestal Shoulder Mounts
-        price: add $125 and up
+        price: add $150 and up
       - name: Floor or table pedestal Mounts
         price: Call
       - name: Detachable Antlers
