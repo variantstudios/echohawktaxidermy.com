@@ -4,12 +4,12 @@ format: full-width
 title: Fish
 weight: 5
 subcategories:
-  - title: ''
+  - title:
     subtext: These prices are per inch.
     options:
       - name: Skinmount
-        price: $15.00 inch
+        price: $17.00 inch
       - name: Skin reproduction
-        price: '$18.00 in. & up'
+        price: $20.00 in. & up
 ---
 
