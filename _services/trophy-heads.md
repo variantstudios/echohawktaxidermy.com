@@ -57,13 +57,13 @@ subcategories:
   - title: Hogs
     options:
       - name: Feral-Russian
-        price: $900
+        price: $1000
       - name: Javelina
-        price: $750
+        price: $850
       - name: Bush Pig
-        price: $900
+        price: $1000
       - name: Wart Hog
-        price: '$1,100'
+        price: $1200
   - title: Small Game
     options:
       - name: Bobcat
