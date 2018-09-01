@@ -27,27 +27,27 @@ subcategories:
     subtext: '*Prices vary on size of skull,  Panels extra on Europeans'
     options:
       - name: Deer
-        price: $185
+        price: $200
       - name: Antelope
-        price: $185
+        price: $200
       - name: Elk
         price: $250
       - name: Caribou
         price: $250
       - name: Sheep
-        price: $250
-      - name: Moose
         price: $300
+      - name: Moose
+        price: $350
       - name: Bison
-        price: $325
+        price: $350
       - name: Mountain Lion
         price: $200
       - name: Small Game
-        price: $100
+        price: $125
       - name: Bear*
-        price: $200
+        price: $250
       - name: Hogs*
-        price: $225
+        price: $275
   - title: Plating
     subtext: >-
       All plating prices are on skulls already boiled and cleaned. Additional
