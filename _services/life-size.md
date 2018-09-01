@@ -4,7 +4,7 @@ format: three-column
 title: Life-size
 weight: 4
 subcategories:
-  - title: 'Big Game*'
+  - title: Big Game*
     subtext: >-
       Half life-size mount is 70% of the life-size cost. Custom base work extra
       on life-size big game.
@@ -12,13 +12,13 @@ subcategories:
       * P.O.R for all others
     options:
       - name: 'Deer, Antelope'
-        price: $3400
+        price: $3600
       - name: Mountain Lion
-        price: $3400
+        price: $3600
       - name: Mountain Goat
-        price: $3400
+        price: $3600
       - name: Black Bear
-        price: $3500
+        price: $3600 and up
       - name: Sheep
         price: $3600
   - title: Small Game
