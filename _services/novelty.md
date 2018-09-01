@@ -5,24 +5,24 @@ title: Novelty
 weight: 3
 subcategories:
   - title: Horn Plaques
-    subtext: ''
+    subtext:
     options:
       - name: Deer
-        price: $200
+        price: $250
       - name: Antelope
-        price: $200
+        price: $250
       - name: Mountain Goat
-        price: $200
+        price: $250
       - name: Elk
-        price: $250
+        price: $300
       - name: Caribou
-        price: $250
+        price: $300
       - name: Moose
-        price: $325
+        price: $400
       - name: Sheep
-        price: $325
+        price: $350
       - name: Hoof gun racks on panel
-        price: '$300 & up'
+        price: $300 & up
   - title: Skulls
     subtext: '*Prices vary on size of skull,  Panels extra on Europeans'
     options:
@@ -44,9 +44,9 @@ subcategories:
         price: $200
       - name: Small Game
         price: $100
-      - name: 'Bear*'
+      - name: Bear*
         price: $200
-      - name: 'Hogs*'
+      - name: Hogs*
         price: $225
   - title: Plating
     subtext: >-
@@ -85,6 +85,6 @@ subcategories:
       - name: 'Zebra, Giraffe, Horse'
         price: $315
       - name: 'Antlers, Horns'
-        price: '$1.75 per B&C inch'
+        price: $1.75 per B&C inch
 ---
 
