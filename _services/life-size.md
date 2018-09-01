@@ -31,9 +31,9 @@ subcategories:
       - name: Badger
         price: $1000
       - name: Wolverine
-        price: $975
+        price: $1000
       - name: Bobcat
-        price: $975
+        price: $1000
       - name: Coyote
         price: $1000
       - name: Lynx
