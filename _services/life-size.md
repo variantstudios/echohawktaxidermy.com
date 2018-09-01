@@ -25,18 +25,18 @@ subcategories:
     subtext: Custom base work extra on life-size small game.
     options:
       - name: Fox
-        price: $975
+        price: $1000
       - name: Raccoon
-        price: $975
+        price: $1000
       - name: Badger
-        price: $975
+        price: $1000
       - name: Wolverine
         price: $975
       - name: Bobcat
         price: $975
       - name: Coyote
-        price: $975
+        price: $1000
       - name: Lynx
-        price: $975
+        price: $1000
 ---
 
