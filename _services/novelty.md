@@ -52,39 +52,26 @@ subcategories:
     subtext: >-
       All plating prices are on skulls already boiled and cleaned. Additional
       fees for de-greasing skulls, teeth repair, bone repair, antler repairs
-      etc.
-
-      All panels and bases extra cost.
-
-      Colors,
-
-      Bronze,
-
-      Copper,
-
-      Nickel,
-
-      Iron,
-
-      Brass.
+      etc.All panels and bases extra
+      cost.Colors,Bronze,Copper,Nickel,Iron,Brass.
     options:
       - name: Small Game
-        price: $110
+        price: $120
       - name: Deer size game
-        price: $165
+        price: $185
       - name: 'Mountain Lion, Black bear'
-        price: $195
+        price: $225
       - name: Elk size game
-        price: $225
+        price: $255
       - name: 'Brown, Grizzly bear, Wild boar'
-        price: $225
+        price: $255
       - name: 'Moose, Bison, Steer'
-        price: $265
+        price: $295
       - name: Cape Buffalo
-        price: $285
+        price: $295
       - name: 'Zebra, Giraffe, Horse'
         price: $315
       - name: 'Antlers, Horns'
-        price: $1.75 per B&C inch
+        price: $2.00 per B&C inch
 ---
 
