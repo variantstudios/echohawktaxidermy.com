@@ -34,8 +34,8 @@ subcategories:
         price: $250
       - name: Caribou
         price: $250
-      - name: Sheep
-        price: $300
+      - name: Sheep*
+        price: $350
       - name: Moose
         price: $350
       - name: Bison
