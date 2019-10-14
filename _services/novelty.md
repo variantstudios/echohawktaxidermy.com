@@ -20,7 +20,7 @@ subcategories:
       - name: Moose
         price: $450
       - name: Sheep
-        price: $350
+        price: $400
       - name: Hoof gun racks on panel
         price: $300 & up
   - title: Skulls
