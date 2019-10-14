@@ -16,7 +16,7 @@ subcategories:
       - name: Elk
         price: $350
       - name: Caribou
-        price: $300
+        price: $350
       - name: Moose
         price: $400
       - name: Sheep
