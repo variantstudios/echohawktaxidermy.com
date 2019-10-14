@@ -38,8 +38,8 @@ subcategories:
         price: $350
       - name: Moose*
         price: $400
-      - name: Bison
-        price: $350
+      - name: Bison*
+        price: $400
       - name: Mountain Lion
         price: $200
       - name: Small Game
