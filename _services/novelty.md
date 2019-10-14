@@ -18,7 +18,7 @@ subcategories:
       - name: Caribou
         price: $350
       - name: Moose
-        price: $400
+        price: $450
       - name: Sheep
         price: $350
       - name: Hoof gun racks on panel
