@@ -36,8 +36,8 @@ subcategories:
         price: $250
       - name: Sheep*
         price: $350
-      - name: Moose
-        price: $350
+      - name: Moose*
+        price: $400
       - name: Bison
         price: $350
       - name: Mountain Lion
