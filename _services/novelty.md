@@ -14,7 +14,7 @@ subcategories:
       - name: Mountain Goat
         price: $250
       - name: Elk
-        price: $300
+        price: $350
       - name: Caribou
         price: $300
       - name: Moose
