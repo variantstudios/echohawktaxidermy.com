@@ -11,9 +11,9 @@ subcategories:
       and mounts.
     options:
       - name: 'Impala, Springbuck, etc.'
-        price: $850
+        price: $900
       - name: 'Dik Dik, Duiker size game'
-        price: $550
+        price: $650
   - title: Elk Size Game
     subtext: >-
       Prices will vary with amount of damage to skin due to mishandling, bug
