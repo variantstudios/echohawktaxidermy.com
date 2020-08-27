@@ -25,25 +25,25 @@ subcategories:
   - title: Sheep
     options:
       - name: Corsican
-        price: $800
+        price: $900
       - name: Moufalon
-        price: $800
+        price: $900
       - name: Hawaiian Black
-        price: $800
+        price: $900
       - name: Four Horned
-        price: $850
+        price: $1000
       - name: Texas Dall
-        price: $800
+        price: $900
       - name: Desert
-        price: $900
+        price: $950
       - name: Bighorn
-        price: $900
+        price: $950
       - name: Dall
-        price: $900
+        price: $950
       - name: Stone
-        price: $900
+        price: $950
       - name: Aoudad
-        price: $900
+        price: $950
   - title: Goats
     options:
       - name: Mountain
