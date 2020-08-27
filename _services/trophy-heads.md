@@ -47,13 +47,13 @@ subcategories:
   - title: Goats
     options:
       - name: Mountain
-        price: $900
+        price: $950
       - name: Ibex
-        price: $900
+        price: $950
       - name: Catalina
-        price: $900
+        price: $950
       - name: Spanish
-        price: $900
+        price: $950
   - title: Hogs
     options:
       - name: Feral-Russian
