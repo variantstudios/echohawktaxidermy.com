@@ -8,21 +8,21 @@ subcategories:
     subtext:
     options:
       - name: Deer
-        price: $250
+        price: $300
       - name: Antelope
-        price: $250
+        price: $300
       - name: Mountain Goat
-        price: $250
+        price: $300
       - name: Elk
-        price: $350
+        price: $425
       - name: Caribou
-        price: $350
+        price: $425
       - name: Moose
-        price: $450
+        price: $500 & up
       - name: Sheep
-        price: $400
+        price: $500 & up
       - name: Hoof gun racks on panel
-        price: $300 & up
+        price: $350 & up
   - title: Skulls
     subtext: '*Prices vary on size of skull,  Panels extra on Europeans'
     options:
