@@ -10,5 +10,5 @@ subcategories:
       - name: Skinmount
         price: $18.00 inch
       - name: Skin reproduction
-        price: $20.00 in. & up
+        price: $25.00 in. & up
 ---
