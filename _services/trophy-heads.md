@@ -9,7 +9,7 @@ subcategories:
       - name: 'Deer, Antelope'
         price: $825
       - name: 'Fallow, Sika'
-        price: $775
+        price: $825
       - name: 'Axis, Blackbuck'
         price: $850
       - name: Elk
