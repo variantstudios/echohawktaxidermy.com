@@ -13,7 +13,7 @@ subcategories:
       - name: 'Axis, Blackbuck'
         price: $850
       - name: Elk
-        price: $1300-$1500
+        price: $1550
       - name: Bugling
         price: P.O.R
       - name: Moose
