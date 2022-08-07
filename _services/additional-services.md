@@ -7,12 +7,9 @@ subcategories:
   - title:
     options:
       - name: Pedestal Shoulder Mounts
-        price: add $150 and up
+        price: add $200 and up
       - name: Floor or table pedestal Mounts
         price: Call
       - name: Detachable Antlers
-        price: $150 per side
-      - name: Custom Plating
-        price: Call for pricing
+        price: $200 per side
 ---
-
