@@ -4,24 +4,24 @@ format: three-column
 title: Trophy Heads
 weight: 1
 subcategories:
-  - title: 'North American, Exotic'
+  - title: North American, Exotic
     options:
-      - name: 'Deer, Antelope'
-        price: $825
-      - name: 'Fallow, Sika'
-        price: $825
-      - name: 'Axis, Blackbuck'
-        price: $850
+      - name: Deer, Antelope
+        price: $875
+      - name: Fallow, Sika
+        price: $875
+      - name: Axis, Blackbuck
+        price: $900
       - name: Elk
-        price: $1550
+        price: $1650 & up
       - name: Bugling
         price: P.O.R
       - name: Moose
-        price: $1700
+        price: $1850
       - name: Caribou
-        price: $1200
+        price: $1400
       - name: Bison
-        price: $2500
+        price: $2600
   - title: Sheep
     options:
       - name: Corsican
@@ -81,5 +81,3 @@ subcategories:
       - name: Fox
         price: $650
 ---
-
-
