@@ -25,35 +25,35 @@ subcategories:
   - title: Sheep
     options:
       - name: Corsican
-        price: $900
+        price: $950
       - name: Moufalon
         price: $900
       - name: Hawaiian Black
-        price: $900
+        price: $950
       - name: Four Horned
-        price: $1000
+        price: $1200
       - name: Texas Dall
-        price: $900
+        price: $950
       - name: Desert
-        price: $950
+        price: $1050
       - name: Bighorn
-        price: $950
+        price: $1050
       - name: Dall
-        price: $950
+        price: $1050
       - name: Stone
-        price: $950
+        price: $1050
       - name: Aoudad
-        price: $950
+        price: $1050
   - title: Goats
     options:
       - name: Mountain
-        price: $950
+        price: $1050
       - name: Ibex
-        price: $950
+        price: $1050
       - name: Catalina
-        price: $950
+        price: $1050
       - name: Spanish
-        price: $950
+        price: $1050
   - title: Hogs
     options:
       - name: Feral-Russian
@@ -63,21 +63,19 @@ subcategories:
       - name: Bush Pig
         price: $1200 & up
       - name: Wart Hog
-        price: $1200 & up
+        price: $1500 & up
   - title: Small Game
     options:
       - name: Bobcat
-        price: $650
+        price: $750
       - name: Badger
-        price: $650
+        price: $750
       - name: Coyote
-        price: $650
-      - name: Raccoon
-        price: $650
+        price: $850
       - name: Lynx
         price: $650
       - name: Wolverine
-        price: $650
+        price: $850
       - name: Fox
-        price: $650
+        price: $750
 ---
