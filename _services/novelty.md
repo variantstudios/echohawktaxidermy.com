@@ -27,25 +27,25 @@ subcategories:
     subtext: '*Prices vary on size of skull,  Panels extra on Europeans'
     options:
       - name: Deer
-        price: $225
+        price: $250
       - name: Antelope
-        price: $225
+        price: $250
       - name: Elk
-        price: $275
+        price: $300
       - name: Caribou
-        price: $275
+        price: $300
       - name: Sheep*
-        price: $350
+        price: $350 & up
       - name: Moose*
-        price: $400
+        price: $500 & up
       - name: Bison*
-        price: $400
+        price: $500 & up
       - name: Mountain Lion
-        price: $250
+        price: $300
       - name: Small Game
-        price: $150
+        price: $200
       - name: Bear*
-        price: $250
+        price: $300 & up
       - name: Hogs*
-        price: $275
+        price: $300 & up
 ---
