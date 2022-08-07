@@ -7,14 +7,13 @@ subcategories:
   - title:
     options:
       - name: Black Bear
-        price: $1400 & up
+        price: $1500 & up
       - name: Brown Bear
-        price: $2100 & up
+        price: $2500 & up
       - name: Mountain Lion
-        price: $1400 & up
+        price: $1500 & up
       - name: Small Game
-        price: $1050
+        price: $1200 & up
       - name: Zebra
-        price: $1600
+        price: $2000 & up
 ---
-
