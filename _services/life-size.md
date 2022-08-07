@@ -11,16 +11,16 @@ subcategories:
 
       * P.O.R for all others
     options:
-      - name: 'Deer, Antelope'
-        price: $3600
+      - name: Deer, Antelope
+        price: $4000 & up
       - name: Mountain Lion
-        price: $3600
+        price: $4000 & up
       - name: Mountain Goat
-        price: $3600
+        price: $4000 & up
       - name: Black Bear
-        price: $3600 and up
+        price: $4000 and up
       - name: Sheep
-        price: $3600
+        price: $4000 & up
   - title: Small Game
     subtext: Custom base work extra on life-size small game.
     options:
@@ -39,4 +39,3 @@ subcategories:
       - name: Lynx
         price: $1000
 ---
-
