@@ -21,17 +21,17 @@ subcategories:
       and mounts.
     options:
       - name: Kudu
-        price: $1350
+        price: $1500
       - name: Oryx
-        price: $1350
+        price: $1500
       - name: Waterbuck
-        price: $1350
+        price: $1500
       - name: Wildebeest
-        price: $1350
+        price: $1500
       - name: Cape Buffalo
-        price: $2500
+        price: $3000
       - name: Eland
-        price: $2000 and up
+        price: $2500 & up
       - name: Zebra
-        price: $1350
+        price: $1500
 ---
