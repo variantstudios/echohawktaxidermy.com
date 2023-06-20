@@ -62,6 +62,6 @@ facebook:
 twitter: 
 
 # Google Analytics
-google_analytics_tracking_id: "UA-1299264-14"
+google_analytics_tracking_id: "G-51QDPFSXD8"
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
