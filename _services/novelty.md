@@ -8,17 +8,17 @@ subcategories:
     subtext:
     options:
       - name: Deer
-        price: $350
+        price: $400
       - name: Antelope
-        price: $350
+        price: '400'
       - name: Mountain Goat
-        price: $350
+        price: $400
       - name: Elk
-        price: $475 & up
+        price: $550 &up
       - name: Caribou
-        price: $475 & up
+        price: $550 & up
       - name: Moose
-        price: $600 & up
+        price: $700 & up
       - name: Sheep
         price: $600 & up
       - name: Hoof gun racks on panel
