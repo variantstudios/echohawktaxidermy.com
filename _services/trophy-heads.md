@@ -27,7 +27,7 @@ subcategories:
       - name: Corsican
         price: $950
       - name: Moufalon
-        price: $900
+        price: $950
       - name: Hawaiian Black
         price: $950
       - name: Four Horned
