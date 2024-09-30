@@ -7,21 +7,21 @@ subcategories:
   - title: North American, Exotic
     options:
       - name: Deer, Antelope
-        price: $875
+        price: $925
       - name: Fallow, Sika
-        price: $875
+        price: $925
       - name: Axis, Blackbuck
-        price: $900
+        price: $925
       - name: Elk
-        price: $1650 & up
+        price: $1750 & up
       - name: Bugling
         price: P.O.R
       - name: Moose
-        price: $1850
+        price: $1950 &up
       - name: Caribou
-        price: $1400
+        price: $1500
       - name: Bison
-        price: $2600
+        price: $2600 &up
   - title: Sheep
     options:
       - name: Corsican
